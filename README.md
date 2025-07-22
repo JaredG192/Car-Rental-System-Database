@@ -20,7 +20,7 @@ A simple terminal based Car Rental System using **Python** and **MySQL**. This p
 - **MySQL**
 - `mysql-connector-python` library (for Python-MySQL interaction)
 
----
 
-## 🗂️ Project Structure
+
+
 
